@@ -1,1 +1,1 @@
-# SKKU-Lunch-Reporter
+# SKKU-Lunch-Table-Reporter
